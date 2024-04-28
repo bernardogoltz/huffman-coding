@@ -9,4 +9,4 @@ Este repositório contém uma implementação do código de Huffman em MATLAB, a
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/codigo-huffman-matlab.git
+git clone [https://github.com/seu-usuario/codigo-huffman-matlab.git](https://github.com/bernardogoltz/huffman-coding)
