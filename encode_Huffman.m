@@ -22,3 +22,4 @@ end
 % Exibindo a mensagem codificada
 disp('Mensagem codificada:');
 disp(encodedMessage);
+
