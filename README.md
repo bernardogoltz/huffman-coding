@@ -49,7 +49,7 @@ Após a árvore binária gerar o dicionário que estabelece a relação entre s�
 - ###  Resultado da codificação
   Texto original representado pelos códigos gerados pela árvore de Huffman:
 
-  ![alt text](huffman-coding\img\image-1.png)
+  ![alt text]([huffman-coding\img\image-1.png](https://github.com/bernardogoltz/huffman-coding/blob/main/img/image-1.png))
 
 - ### Resultado da decodificação
-  ![alt text](huffman-coding\img\image-1.png)
+  ![alt text]([huffman-coding\img\image-1.png](https://github.com/bernardogoltz/huffman-coding/blob/main/img/image.png))
