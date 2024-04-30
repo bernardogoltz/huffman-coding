@@ -16,7 +16,7 @@ Para executar este projeto, você precisará do seguinte:
 ## Instalação
 
 ```bash
-git clone https://github.com/bernardogoltz/huffman-coding
+$git clone https://github.com/bernardogoltz/huffman-coding
 ```
 
 ## Execução 
