@@ -6,25 +6,20 @@ Este repositório contém uma implementação do algoritmo de compressão de dad
 
 O projeto inclui scripts MATLAB que permitem codificar e decodificar arquivos de texto usando o código de Huffman. O objetivo é demonstrar a eficiência da compressão de dados sem perda, utilizando uma estrutura de árvore binária.
 
-## Requisitos
-
-Para executar este projeto, você precisará do seguinte:
-
-- MATLAB (MATLAB R2020a ou superior)
-- Acesso a arquivos de texto para testar a compressão e descompressão
+## Ferramentas 
+- ```MATLAB 2020a```
+- ```GNU Octave 9.10.0```
 
 ## Instalação
-
 ```bash
 $git clone https://github.com/bernardogoltz/huffman-coding
 ```
 
 ## Execução 
-
 Após a árvore binária gerar o dicionário que estabelece a relação entre símbolos e frequências no arquivo de texto, geramos o dicionário que estabelece a relação entre símbolos e seus códigos, dessa forma é possível codificar o texto e, naturalmente, acessar seu conteúdo original. 
 
 - ### Relação _símbolo_ == _Código Binário_:
-```
+```bash
    .
    .
    .
